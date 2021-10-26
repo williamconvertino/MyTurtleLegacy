@@ -1,0 +1,8 @@
+#my-canvas {
+  -fx-background-color: gray;
+  -fx-border-style: solid;
+}
+
+.button {
+  -fx-background-color: lightgray;
+}
