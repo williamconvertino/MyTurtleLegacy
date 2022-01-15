@@ -6,4 +6,4 @@ The MyTurtle application allows users to write and run scripts for a virtual dra
 the L-system Visualizer program, and the Darwin Species Simulator.
 
 NOTE:
-A new version of MyTurtle is currently in the works! We hope to have it done some time before January.
+A new version of MyTurtle is currently in the works! We hope to have it done some time in the next year.
